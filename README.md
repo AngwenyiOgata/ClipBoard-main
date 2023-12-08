@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![alt(desktop screenshot)](screenshot2.png)
+![alt(desktop screenshot)](screenshot1.png)
 
 ### Links
 
-- Solution URL: 
-- Live Site URL:(https://angwenyiogata.github.io/ClipBoard-main/)
+- Solution URL: (https://github.com/AngwenyiOgata/ClipBoard-main.git).
+- Live Site URL:(https://angwenyiogata.github.io/ClipBoard-main/).
 
 ## My process
 
